@@ -1,0 +1,47 @@
+.cabecalho {
+    height: 70px;
+    width: 100%;
+    background-color: black;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: #C0C0C0;
+}
+
+.caixa {
+    max-width: 1100px;
+    margin: 0 auto;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+
+}
+
+
+.caixa nav {
+    float: right;
+}
+
+.cor_projeto_home {
+    color: orangered;
+}
+
+ul {
+    list-style: none;
+    padding-bottom: 20px;
+}
+
+ul li{
+    display: inline; 
+    padding-left: 20px;
+    font-size: x-small;
+}
+
+span {
+    float: left;
+    padding-top: 20px;
+}
+
