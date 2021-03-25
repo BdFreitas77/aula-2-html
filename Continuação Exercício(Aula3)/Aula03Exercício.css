@@ -1,0 +1,199 @@
+.cabecalho {
+    height: 70px;
+    width: 100%;
+    background-color: black;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: #C0C0C0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+    Geneva, Verdana, sans-serif;
+}
+
+.caixa {
+    max-width: 1100px;
+    margin: 0 auto;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+    Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+
+.caixa nav {
+    float: right;
+}
+
+.cor_projeto_home {
+    color: orangered;
+}
+
+ul {
+    list-style: none;
+    padding-bottom: 20px;
+}
+
+ul li{
+    display: inline; 
+    padding-left: 20px;
+    font-size: x-small;
+}
+
+.caixa span {
+    float: left;
+    padding-top: 20px;
+}
+
+.separador {
+    background-color: orangered;
+    height: 4px;
+}
+/* Se eu quiser mexer em tudo, uso *
+Exemplo:
+* {
+    margin: 0;
+}
+*/
+
+.atualizações {
+    height: 70px;
+    width: 100%;
+    background-color: black;
+}
+
+.caixadois {
+    max-width: 1100px;
+    margin: 0 auto;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+    Geneva, Verdana, sans-serif;
+    color: white;
+    padding-top: 20px;
+
+}
+
+.caixadois b{
+    color: White;
+    font-size: larger;
+}
+
+.caixadois span{
+    float: right;
+}
+
+.caixadois button{
+    background-color: orangered;
+    border: none;
+    height: 30px;
+    width: 70px;
+}
+
+.caixadois input{
+    height: 25px;
+    width: 225px;
+}
+
+
+.apresentação {
+    min-height: 400px;
+    background-image: url("team.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+    Geneva, Verdana, sans-serif;
+}
+
+.apresentação h1{
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.apresentação_imagens {
+    min-height: 255px;
+}
+
+.caixatrês {
+    padding-top: 50px;
+}
+
+.caixatrês {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.caixatrês img{
+    width: 100px;
+    height: 100px;
+    padding-left: 200px;
+}
+
+.caixatrês b {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+    Geneva, Verdana, sans-serif;
+}
+
+
+
+#b_um {
+    padding-left: 218px;
+}
+
+#b_dois {
+    padding-left: 240px;    
+}
+
+#b_três {
+    padding-left: 245px;    
+}
+
+.tamanho {
+    font-size: small;
+}
+
+#frase_um{
+    padding-left: 128px;
+}
+
+#frase_dois{
+    padding-left: 49px;
+}
+
+#frase_três{
+    padding-left: 49px;
+}
+
+#frase_quatro{
+    padding-left: 198px;
+}
+
+#frase_cinco{
+    padding-left: 213px;
+}
+
+#frase_seis{
+    padding-left: 211px;
+}
+
+.final{
+    background-color: orangered;
+    background-size: cover;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.caixaquatro{
+    padding-top: 25px;
+}
+
+
+
+
